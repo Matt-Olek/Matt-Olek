@@ -1,16 +1,13 @@
-## Hi there 👋
+## About Me
 
-<!--
-**Matt-Olek/Matt-Olek** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I am a recent graduate from École Polytechnique and ENSAE in Paris, with specialized expertise in Artificial Intelligence, Machine Learning, and Financial Mathematics.
 
-Here are some ideas to get you started:
+## Current Endeavors
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- 🔭 Leading development on [beta.laive.ai](https://beta.laive.ai), a comprehensive retrieval platform designed for AI agent production deployment
+- 📝 Contributing author on a research paper currently under review for NeurIPS 2025
+
+## Professional Contact
+
+- 📫 Email: matthieu.olekhnovitch@polytechnique.edu
+- 🌐 Portfolio: [www.matthieu-olekhnovitch.fr](https://www.matthieu-olekhnovitch.fr)

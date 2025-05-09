@@ -1,6 +1,6 @@
 ## About Me
 
-I am a recent graduate from École Polytechnique and ENSAE in Paris, with specialized expertise in Artificial Intelligence, Machine Learning, and Financial Mathematics.
+I am a 2025 graduate from École Polytechnique and ENSAE in Paris, with specialized expertise in Artificial Intelligence, Machine Learning, and Financial Mathematics.
 
 ## Current Endeavors
 

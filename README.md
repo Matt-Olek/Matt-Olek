@@ -4,7 +4,7 @@ Hi, I'm Matthieu, an **AI/ML Enginerd** who scales infrastructure to deploy mode
 
 I graduated from **École Polytechnique** and **ENSAE Paris Tech** with specialized focus in Artificial Intelligence, Natural Language Processing, and autonomous agent architectures.
 
-For more detailed academic and professionnal experience, head to [my page](matthieu-olekhnovitch.fr)
+For more detailed academic and professionnal experience, head to [my page](https://matthieu-olekhnovitch.fr)
 
 ## Current Endeavours & Projects
 

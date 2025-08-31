@@ -36,6 +36,6 @@ For more detailed academic and professionnal experience, head to [my page](https
 
 ## Let's Connect
 
-- 📧 **Email**: mattolek@proton.me
-- 🌐 **Portfolio**: [www.matthieu-olekhnovitch.fr](https://www.matthieu-olekhnovitch.fr)
+- 📧 **Email**: contact@matthieu.olekhnovitch.fr
+- 🌐 **Portfolio**: [matthieu-olekhnovitch.fr](https://matthieu-olekhnovitch.fr)
 - 💼 **Open to**: ML Engineering, AI Team Lead, and DevOps opportunities

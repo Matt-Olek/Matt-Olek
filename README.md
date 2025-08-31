@@ -4,6 +4,8 @@ Hi, I'm Matthieu, an **AI/ML Enginerd** who scales infrastructure to deploy mode
 
 I graduated from **École Polytechnique** and **ENSAE Paris Tech** with specialized focus in Artificial Intelligence, Natural Language Processing, and autonomous agent architectures.
 
+For more detailed academic and professionnal experience, head to [my page](matthieu-olekhnovitch.fr)
+
 ## Current Endeavours & Projects
 
 - 🚀 **Technical Lead** - [beta.laive.ai](https://beta.laive.ai): Architecting and leading development of a scalable retrieval platform for production AI agent deployment, managing full production infrastructure and a team of 5 ML Engineers & Researchers. Startup [incubated at P58](https://www.platform58.labanquepostale.fr/startups.html), Paris 15.

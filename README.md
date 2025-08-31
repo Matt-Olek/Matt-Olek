@@ -1,8 +1,8 @@
 ## About Me
 
-**AI/ML Engineer** with expertise in end-to-end machine learning systems, from data acquisition and deep learning model development to production deployment and infrastructure scaling. Passionate about team development and automation.
+Hi, I'm Matthieu, an **AI/ML Enginerd** who scales infrastructure to deploy models, and develops models to scale infrastructure. I lead teams through MLOps pipelines while going from localhost:8000 to production. From data acquisition and deep learning model development to production deployment and infra scaling, I turn coffee into releases — because someone has to keep the api rolling.
 
-**2025 Graduate** from École Polytechnique and ENSAE Paris Tech with specialized focus in Artificial Intelligence, Natural Language Processing, and autonomous agent architectures.
+I graduated from **École Polytechnique** and **ENSAE Paris Tech** with specialized focus in Artificial Intelligence, Natural Language Processing, and autonomous agent architectures.
 
 ## Current Endeavours & Projects
 

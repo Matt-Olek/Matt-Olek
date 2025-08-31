@@ -27,6 +27,11 @@ I graduated from **École Polytechnique** and **ENSAE Paris Tech** with speciali
 
 **DevOps & Infrastructure**: [Docker](https://www.docker.com/) - [Kubernetes](https://kubernetes.io/) - CI/CD with github/gitlab ( + [Dokploy](https://dokploy.com/fr) enthousiast) - AWS, OVH, GCP, Azure ML - [Grafana](https://grafana.com/) , [Prometheus](https://prometheus.io/), [PgAdmin4](https://www.pgadmin.org/)/[Adminer](https://www.adminer.org/en/) for monitoring.
 
+## Promising Open-Source Projects I Follow
+- [LangFlow](https://www.langflow.org/): A cool all-in-one open-source tool for prototyping AI/RAG applications
+- [Dokploy](https://dokploy.com/fr) : An open-source alternative to vercel/Netlify for automatic deployment, previews and VPS cluster management.
+- [GoatCounter](https://www.goatcounter.com/): A simple straightforward open-source web analytics tool for small projects
+
 ## Let's Connect
 
 - 📧 **Email**: mattolek@proton.me

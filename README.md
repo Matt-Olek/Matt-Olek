@@ -15,6 +15,7 @@ For more detailed academic and professionnal experience, head to [my page](https
 ## Achievements & Recognition
 
 **2025**
+- **Datacraft** - Presented the conference *Enhancing Performance of RAG systems with mathematical methods* in Paris
 - **IMC Trading International Challenge** - Led Polytechnique team to **top 1%** global ranking (12,000+ teams)
 
 **2024**

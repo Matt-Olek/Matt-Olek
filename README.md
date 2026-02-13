@@ -1,6 +1,6 @@
 ## About Me
 
-Hi, I'm Matthieu, an **AI/ML Engineer** currently developping agents @pigment. I build and ship production AI agents with node-based orchestration, parallel tool execution and solid eval/monitoring, taking them from prototype to reliable services.
+Hi, I'm Matthieu, an **AI/ML Engineer** currently developping the future [@pigment](https://pigment.com). I am mainly interested in building and shipping production AI agents with node-based orchestration, parallel tool execution and solid eval/monitoring, taking them from prototype to reliable services.
 
 I graduated from **École Polytechnique** and **ENSAE Paris Tech** with specialized focus in Artificial Intelligence, Natural Language Processing, and autonomous agent architectures.
 

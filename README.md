@@ -1,14 +1,23 @@
 ## About Me
 
-Hi, I'm Matthieu, an **AI/ML Engineer** currently developping the future [@pigment](https://pigment.com). I am mainly interested in building and shipping production AI agents with node-based orchestration, parallel tool execution and solid eval/monitoring, taking them from prototype to reliable services.
+Hi, I'm Matthieu, an **AI/ML Engineer** and **Founding Engineer** at [@davis](https://www.meetdavis.com), laying the foundations of the agentic system behind its real-estate capabilities. I am mainly interested in building and shipping production AI agents with node-based orchestration, parallel tool execution and solid eval/monitoring, taking them from prototype to reliable services.
 
 I graduated from **École Polytechnique** and **ENSAE Paris Tech** with specialized focus in Artificial Intelligence, Natural Language Processing, and autonomous agent architectures.
 
-For more detailed academic and professionnal experience, head to [my page](https://matthieu.olekhnovitch.fr)
+For more detailed academic and professional experience, head to [my page](https://matthieu.olekhnovitch.fr)
+
+## Experience
+
+- 🏗️ **Founding Engineer - Founding Team** - [@davis](https://www.meetdavis.com) *(Sep. 2026 — Now)*: Laying the foundations of the agentic system behind Davis' real-estate capabilities, working closely with cracked architects.
+- 🤖 **ML Engineer - AI agents Team (Core)** - [@pigment](https://pigment.com) *(Dec. 2025 — Sep. 2026)*: Developed Pigment's core agentic ecosystem to support its AI features and roadmap, enabling smart analysis, data exploration, and agentic modeling.
+- 🚀 **Co-Founder & CTO - Founding Team** - [laive.ai](https://laive.ai) *(Jun. 2024 — Dec. 2025)*: Co-founded and developed laive, an API platform enabling developers to build agentic AI applications with advanced document processing and knowledge retrieval capabilities.
+- 📊 **Quantitative Researcher Intern - Quantitative Market-Making Team** - [Société Générale](https://www.societegenerale.com) *(May 2025 — Nov. 2025)*: Created and validated quantitative predictive models to support mid-frequency trading strategies.
+- 🔬 **ML Researcher Intern - SNT, Serval Team** - [University of Luxembourg](https://www.uni.lu/snt-en/) *(Mar. 2024 — Aug. 2024)*: Led research on auto-augmentation techniques for time series classification and forecasting.
+- 🧑‍💻 **ML Engineer Intern - Worldline AI Labs Team** - [Worldline](https://worldline.com) *(Jun. 2023 — Sep. 2023)*: Developed and deployed pioneering RAG systems for anomaly detection in large-scale programming codebases.
 
 ## Current Endeavours & Projects
 
-- 🚀 **GenAI engineer - Core Agent Team** - [@pigment](https://pigment.com): Developping the low-level framework for AI agents builders at Pigment. Jungling with LangChain & LangGraph <3
+- 🏗️ **Founding Engineer** - [@davis](https://www.meetdavis.com): Building the agentic foundation of an AI-native real-estate platform.
 - 🔬 **Research Contributor** - Co-authoring research paper under review for ICML 2026, contributing a new methodology for large datasets auto-augmentation
 - 🎯 **Focus Areas**: MLOps, distributed systems, AI agent orchestration and deployment, ML models implementation and distribution
 
@@ -28,7 +37,7 @@ For more detailed academic and professionnal experience, head to [my page](https
 
 **ML/AI engineering**: PyTorch advocate with [WeightAndBiases](https://wandb.ai/site)/[MLflow](https://mlflow.org/) for training, [Langchain](https://www.langchain.com/) & [LangGraph](https://www.langchain.com/langgraph) for agentic development/orchestration + [Langsmith](https://www.langchain.com/langsmith) for simple observability. [LlamaIndex](https://www.llamaindex.ai/) and [LlamaParse](https://www.llamaindex.ai/llamaparse) for out-of-the box RAG, [QDrant](https://qdrant.tech/) + [PostgreSQL](https://www.postgresql.org/) + [Redis](https://redis.io/) for complete semantic & agentic database system 
 
-**DevOps & Infrastructure**: [Docker](https://www.docker.com/) - [Kubernetes](https://kubernetes.io/) - CI/CD with github/gitlab and CircleCI ( + [Dokploy](https://dokploy.com/fr) enthousiast) - AWS, OVH, GCP, Azure ML - [Grafana](https://grafana.com/) , [Prometheus](https://prometheus.io/), [PgAdmin4](https://www.pgadmin.org/)/[Adminer](https://www.adminer.org/en/) for monitoring.
+**DevOps & Infrastructure**: [Docker](https://www.docker.com/) - [Kubernetes](https://kubernetes.io/) - CI/CD with github/gitlab and CircleCI ( + [Dokploy](https://dokploy.com/fr) enthusiast) - AWS, OVH, GCP, Azure ML - [Grafana](https://grafana.com/) , [Prometheus](https://prometheus.io/), [PgAdmin4](https://www.pgadmin.org/)/[Adminer](https://www.adminer.org/en/) for monitoring.
 
 ## Promising Open-Source Projects I Follow
 - [LangFlow](https://www.langflow.org/): A cool all-in-one open-source tool for prototyping AI/RAG applications

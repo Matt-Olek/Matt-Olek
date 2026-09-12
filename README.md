@@ -10,7 +10,7 @@ For more detailed academic and professional experience, head to [my page](https:
 
 - 🏗️ **Founding Engineer** - [@davis](https://www.meetdavis.com) *(Sep. 2026 — Now)*
 - 🤖 **ML Engineer** - [@pigment](https://pigment.com) *(Dec. 2025 — Sep. 2026)*
-- 🚀 **Co-Founder & CTO** - [@laive.ai](https://laive.ai) *(Jun. 2024 — Dec. 2025)*
+- 🚀 **Co-Founder & CTO** - [@laive](https://laive.ai) *(Jun. 2024 — Dec. 2025)*
 - 📊 **Quantitative Researcher Intern** - [Société Générale](https://www.societegenerale.com) *(May 2025 — Nov. 2025)*
 - 🔬 **ML Researcher Intern** - [University of Luxembourg](https://www.uni.lu/snt-en/) *(Mar. 2024 — Aug. 2024)*
 - 🧑‍💻 **ML Engineer Intern** - [Worldline](https://worldline.com) *(Jun. 2023 — Sep. 2023)*

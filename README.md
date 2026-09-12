@@ -1,6 +1,6 @@
 ## About Me
 
-Hi, I'm Matthieu, an **AI/ML Engineer** and **Founding Engineer** at [@davis](https://www.meetdavis.com), laying the foundations of the agentic system behind its real-estate capabilities. I am mainly interested in building and shipping production AI agents with node-based orchestration, parallel tool execution and solid eval/monitoring, taking them from prototype to reliable services.
+Hi, I'm Matthieu, currently working as **Founding AI Engineer** at [@davis](https://www.meetdavis.com). I am mainly interested in building and shipping production AI agents with node-based orchestration, parallel tool execution, persistence, and solid eval/monitoring, taking them from vibe-coded prototype to reliable services.
 
 I graduated from **École Polytechnique** and **ENSAE Paris Tech** with specialized focus in Artificial Intelligence, Natural Language Processing, and autonomous agent architectures.
 

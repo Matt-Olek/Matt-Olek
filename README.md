@@ -8,12 +8,12 @@ For more detailed academic and professional experience, head to [my page](https:
 
 ## Experience
 
-- 🏗️ **Founding Engineer - Founding Team** - [@davis](https://www.meetdavis.com) *(Sep. 2026 — Now)*: Laying the foundations of the agentic system behind Davis' real-estate capabilities, working closely with cracked architects.
-- 🤖 **ML Engineer - AI agents Team (Core)** - [@pigment](https://pigment.com) *(Dec. 2025 — Sep. 2026)*: Developed Pigment's core agentic ecosystem to support its AI features and roadmap, enabling smart analysis, data exploration, and agentic modeling.
-- 🚀 **Co-Founder & CTO - Founding Team** - [laive.ai](https://laive.ai) *(Jun. 2024 — Dec. 2025)*: Co-founded and developed laive, an API platform enabling developers to build agentic AI applications with advanced document processing and knowledge retrieval capabilities.
-- 📊 **Quantitative Researcher Intern - Quantitative Market-Making Team** - [Société Générale](https://www.societegenerale.com) *(May 2025 — Nov. 2025)*: Created and validated quantitative predictive models to support mid-frequency trading strategies.
-- 🔬 **ML Researcher Intern - SNT, Serval Team** - [University of Luxembourg](https://www.uni.lu/snt-en/) *(Mar. 2024 — Aug. 2024)*: Led research on auto-augmentation techniques for time series classification and forecasting.
-- 🧑‍💻 **ML Engineer Intern - Worldline AI Labs Team** - [Worldline](https://worldline.com) *(Jun. 2023 — Sep. 2023)*: Developed and deployed pioneering RAG systems for anomaly detection in large-scale programming codebases.
+- 🏗️ **Founding Engineer** - [@davis](https://www.meetdavis.com) *(Sep. 2026 — Now)*
+- 🤖 **ML Engineer** - [@pigment](https://pigment.com) *(Dec. 2025 — Sep. 2026)*
+- 🚀 **Co-Founder & CTO** - [laive.ai](https://laive.ai) *(Jun. 2024 — Dec. 2025)*
+- 📊 **Quantitative Researcher Intern** - [Société Générale](https://www.societegenerale.com) *(May 2025 — Nov. 2025)*
+- 🔬 **ML Researcher Intern** - [University of Luxembourg](https://www.uni.lu/snt-en/) *(Mar. 2024 — Aug. 2024)*
+- 🧑‍💻 **ML Engineer Intern** - [Worldline](https://worldline.com) *(Jun. 2023 — Sep. 2023)*
 
 ## Current Endeavours & Projects
 

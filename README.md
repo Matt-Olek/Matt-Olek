@@ -17,7 +17,7 @@ For more detailed academic and professional experience, head to [my page](https:
 
 ## Current Endeavours & Projects
 
-- 🏗️ **Founding Engineer** - [@davis](https://www.meetdavis.com): Building the agentic foundation of an AI-native real-estate platform.
+- 🏗️ **Founding Engineer** - [@davis](https://www.meetdavis.com): Laying the groundwork for agentic workflows and automations built for architects.
 - 🔬 **Research Contributor** - Co-authoring research paper under review for ICML 2026, contributing a new methodology for large datasets auto-augmentation
 - 🎯 **Focus Areas**: MLOps, distributed systems, AI agent orchestration and deployment, ML models implementation and distribution
 

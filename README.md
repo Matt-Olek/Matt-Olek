@@ -1,6 +1,6 @@
 ## About Me
 
-Hi, I'm Matthieu, currently working as **Founding AI Engineer** at [@davis](https://www.meetdavis.com). 
+Hi, I'm Matthieu, currently working as **Founding AI Engineer** at [@Davis](https://www.meetdavis.com). 
 I build autonomous agents and multi-agent swarms: orchestration, parallel tool use, long-term memory, and the evals and observability that make them reliable in production, not just in a demo.
 
 I graduated from **École Polytechnique** and **ENSAE Paris Tech** with specialized focus in Artificial Intelligence, Natural Language Processing, and autonomous agent architectures, with an additional master in Financial Mathematics.
@@ -9,7 +9,7 @@ For more details on me, head to [my page](https://matthieu.olekhnovitch.fr)
 
 ## Current Endeavours & Projects
 
-- [@davis](https://www.meetdavis.com): Laying the groundwork for agentic workflows and automations built for architects.
+- [@Davis](https://www.meetdavis.com): Laying the groundwork for agentic workflows and automations built for architects.
 - 🔬 **Research Contributor** - Co-authoring research paper accepted at TMLR 2026, contributing a new methodology for large datasets auto-augmentation
 
 ## Promising Open-Source Projects I Like
